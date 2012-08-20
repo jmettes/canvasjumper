@@ -1,0 +1,14 @@
+{
+  "name": "canvasjumper",
+  "version": "0.0.2",
+  "author": "Jonathan Mettes <jmettes@gmail.com>",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "express": "3.0.0rc1",
+    "socket.io": "0.9.8"
+  }
+}
+
