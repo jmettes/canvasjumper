@@ -1,0 +1,7 @@
+canvasjumper
+
+My first attempt at making a platform game using JavaScript and HTML5 canvas. I slapped on some quick and dirty multiplayer functionality with Node.js and Socket.io.
+
+The game code was heavily based on code from Tonypa's tile based games tutorials (http:// www.tonypa.pri.ee/tbw/).
+
+A demo of the game can be played at: http://canvasjumper.com
